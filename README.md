@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Project Description](#project-description)
 * [User Story](#user-story)
-* [Video](#)
+* [Video](#video)
 
 
 ## Project Description
@@ -21,3 +21,4 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Video
 
+[Click Here to Watch A Demonstration](https://drive.google.com/file/d/1XVFq213KCr2GAiyrqHgxxcSQ-xZmQp0P/view)
